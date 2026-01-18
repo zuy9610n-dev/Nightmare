@@ -3,7 +3,7 @@
         "name": "Settler",
         "unitType": "Civilian",
         "movement": 2,
-        "cost": 70,
+        "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "All tiles cost 1 movement <if [Palace] is not constructed>",
@@ -44,7 +44,7 @@
     "uniqueTo": "Spain",
     "replaces": "Settler",
     "movement": 2,
-    "cost": 75,
+    "cost": 106,
     "uniques": [
       "Founds a new city",
       "Excess Food converted to Production when under construction",
