@@ -16,10 +16,16 @@
     "cost": 0,
     "uniques": [
       "Unbuildable <for [AI player]>",
-      "Can only be built [in capital]", 
-      "[+7] Movement <for [Settler] units> <before the [Medieval era]>",
-      "[+7] Movement <for [Worker] units> <before the [Medieval era]>",
+      "isNationalWonder": true,
+      "[+15] Movement <for [Settler] units> <before the [Medieval era]>",
+      "[+15] Movement <for [Worker] units> <before the [Medieval era]>",
     ],
+    },
+    {
+		"name": "neg20percent happiness",
+		"cost": 0,
+		"isNationalWonder": true,
+		"uniques": ["[-20]% Unhappiness from [Population] [in all cities]"] 
     }
 
     //Wonder
