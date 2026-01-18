@@ -153,7 +153,6 @@
                 "name": "Liberty Complete",
                 "uniques": [
                     "Free Great Person",
-					"[+1 Culture] [in all cities]",
 					"[+33]% Production when constructing [National Epic] wonders [in all cities]",
                     "[+33]% Production when constructing [National College] wonders [in all cities]",
                     "[+33]% Production when constructing [Circus Maximus] wonders [in all cities]",
@@ -292,11 +291,6 @@
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-25]%",
                     "[+1 Happiness] from every [Temple]",
-				          	"Comment [+1 [Culture] from all buildings purchased with [Faith]]",
-					          "[+1 Culture] from every [Cathedral] <hidden from users>",
-					          "[+1 Culture] from every [Mosque] <hidden from users>",
-					          "[+1 Culture] from every [Pagoda] <hidden from users>",
-				              "[+1 Culture] from every [Stupa] <hidden from users>"
                 ],
                 "row": 1,
                 "column": 5
@@ -318,7 +312,7 @@
                     "Gain a free [Pantheon] belief", "(if you founded a religion)",
 				    "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
                     "[+33]% [Science] from every [Grand Temple]",
-					"May choose [2] additional belief(s) of any type when [founding] a religion",
+					"May choose [1] additional belief(s) of any type when [founding] a religion",
                     "[+1 Science] from every [Temple]"
                 ],
                 "requires": ["Organized Religion"],
@@ -329,7 +323,7 @@
                 "name": "Reformation",
                 "uniques": [
 		                "[-10]% Culture cost of adopting new Policies",
-					    "[-15]% Culture cost of natural border growth [in all cities]",
+					    "[-10]% Culture cost of natural border growth [in all cities]",
                     "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
                     "Gain a free [Enhancer] belief <after founding a religion>"
                 ],
@@ -343,7 +337,7 @@
                 		"[+4 Culture] from every [Holy site]",
 	      	          "Free [Great Prophet] appears",
 					"Provides a [Garden] in your first [6] cities for free",
-                    "[-15]% Culture cost of adopting new Policies",
+                    "[-10]% Culture cost of adopting new Policies",
 					"May buy [Piety Complete Building] buildings for [1875] [Faith] [in capital] <(modified by game speed)> <hidden from users> <starting from the [Industrial era]>",
                     "Comment [May buy [{non-[Great Scientist]} {Great Person}] units for [1875] [Faith] [in capital] [(modified by game speed)] [once] [starting from the [Industrial era]]]"
                 ]
@@ -360,7 +354,7 @@
             "Domination": 0,
             "Scientific": 10
         },
-        "uniques": ["[+15]% [Culture] <while the empire is happy>",
+        "uniques": ["[+10]% [Culture] <while the empire is happy>",
 		            "[Great Artist] is earned [25]% faster",
                     "[Great Writer] is earned [25]% faster",
                     "[Great Musician] is earned [25]% faster",
@@ -374,7 +368,7 @@
 			"[+100]% Production when constructing [Opera House] buildings [in all cities]",
 			"[+100]% Production when constructing [Museum] buildings [in all cities]",
 			"[+100]% Production when constructing [Broadcast Tower] buildings [in all cities]",
-			"[-20]% Culture cost of adopting new Policies"
+			"[-15]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
                 "column": 2
@@ -404,7 +398,6 @@
             {
                 "name": "Tourism Destination",
                 "uniques": [
-                    "[+1 Gold] from all [Culture] buildings",
 					"[+1 Culture] from every [Great Work]",
                     "[+1 Culture] from every [World Wonder]",
                 ],
