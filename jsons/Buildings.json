@@ -17,7 +17,7 @@
     "uniques": [
       "Unbuildable <for [AI player]>",
       "isNationalWonder": true,
-	  "Obsoleted by [Medieval era]", // 中世に入るとこの建物自体が無効化される
+	  "Obsoleted by [Civil Service]", // 例：公共サービス（中世技術）で廃止
       "[+15] Movement <for [Settler] units> <before [Medieval era]>",
       "[+15] Movement <for [Worker] units> <before [Medieval era]>",
     ],
