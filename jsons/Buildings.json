@@ -14,9 +14,9 @@
     {
     "name": "MoreNavalUnitMovement",
     "cost": 0,
+	"isNationalWonder": true,
     "uniques": [
       "Unbuildable <for [AI player]>",
-      "isNationalWonder": true,
 	  "Obsoleted by [Civil Service]", // 例：公共サービス（中世技術）で廃止
       "[+15] Movement <for [Settler] units> <before [Medieval era]>",
       "[+15] Movement <for [Worker] units> <before [Medieval era]>",
